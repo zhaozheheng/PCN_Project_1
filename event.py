@@ -1,7 +1,3 @@
-# CS6352 project 1
-# Zheheng Zhao
-# zxz163930
-
 class Event:
     def __init__(self, time = 0.0, kind = 0):
         self.time = time
