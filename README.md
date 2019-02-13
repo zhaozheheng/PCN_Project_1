@@ -9,6 +9,9 @@ such as the number of customers in the queue. Finally, new events are generated 
 system state is updated, the simulation moves on to the next event in chronological order.
 
 Running system: Mac OS
+
 Compiler: Python 2.7.15
+
 For running my code, you need to install numpy and matplotlib libraries for Python.
+
 Install intruction: pip install numpy & mayplotlib
